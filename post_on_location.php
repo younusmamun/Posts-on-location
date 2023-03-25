@@ -12,6 +12,9 @@ Text Domain: post-on-location
 Domain Path: /languages/
 */
 
+function test(){
+
+}
 
 function pol_load_textdomain(){
     load_plugin_textdomain('post-on-location',false,dirname(__FILE__)."/languages");
