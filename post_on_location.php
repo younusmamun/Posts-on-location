@@ -59,5 +59,5 @@ add_filter('the_author','my_func_author_location');
 
 
 
-
+// aded lines to test
 
